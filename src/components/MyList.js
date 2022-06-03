@@ -2,9 +2,7 @@ import React, { Component } from 'react';
 import {Text,View,ScrollView,TouchableOpacity, Image, StyleSheet} from 'react-native';
 
 
-import img1 from '../../src/images/img1.png';
-import img2 from '../../src/images/img2.png';
-import img3 from '../../src/images/img3.png';
+
 
 
 
